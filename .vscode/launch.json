@@ -1,0 +1,525 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LeftRotaion",
+            "request": "launch",
+            "mainClass": "LeftRotaion",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseMatrix",
+            "request": "launch",
+            "mainClass": "ReverseMatrix",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "RotataRight",
+            "request": "launch",
+            "mainClass": "RotataRight",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "SecondLargestElement",
+            "request": "launch",
+            "mainClass": "SecondLargestElement",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "ConvertDecimalTOBinary",
+            "request": "launch",
+            "mainClass": "ConvertDecimalTOBinary",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "PalidromUsingStack",
+            "request": "launch",
+            "mainClass": "PalidromUsingStack",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "PalidromUsingStck",
+            "request": "launch",
+            "mainClass": "PalidromUsingStck",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "SecondApprochToFindPalidromString",
+            "request": "launch",
+            "mainClass": "SecondApprochToFindPalidromString",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "NewPalidromString",
+            "request": "launch",
+            "mainClass": "NewPalidromString",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "TwoNumberAnagram",
+            "request": "launch",
+            "mainClass": "Basic.TwoNumberAnagram",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "CheckTwoNumberIsAnagram",
+            "request": "launch",
+            "mainClass": "Basic.CheckTwoNumberIsAnagram",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "CountPrimeNumber",
+            "request": "launch",
+            "mainClass": "Basic.CountPrimeNumber",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitByRecursion",
+            "request": "launch",
+            "mainClass": "SumOfDigitByRecursion",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "ListOfPrimeNumber",
+            "request": "launch",
+            "mainClass": "Operater.ListOfPrimeNumber",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "isCheckPrimeNumber",
+            "request": "launch",
+            "mainClass": "Operater.isCheckPrimeNumber",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "CheckPrimeNumber",
+            "request": "launch",
+            "mainClass": "CheckPrimeNumber",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Abc",
+            "request": "launch",
+            "mainClass": "Abc",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "AddAnyPosition",
+            "request": "launch",
+            "mainClass": "AddAnyPosition",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "AddNewAtFirstPositions",
+            "request": "launch",
+            "mainClass": "AddNewAtFirstPositions",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "ArmstrongNumber",
+            "request": "launch",
+            "mainClass": "ArmstrongNumber",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "BreakExmple",
+            "request": "launch",
+            "mainClass": "BreakandContinu.BreakExmple",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "BreakExmple2",
+            "request": "launch",
+            "mainClass": "BreakandContinu.BreakExmple2",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "ContinueEx1",
+            "request": "launch",
+            "mainClass": "BreakandContinu.ContinueEx1",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "CalCulateFac",
+            "request": "launch",
+            "mainClass": "CalCulateFac",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "CalculateFactorial",
+            "request": "launch",
+            "mainClass": "CalculateFactorial",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "FirstClass",
+            "request": "launch",
+            "mainClass": "DataType.FirstClass",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "Second",
+            "request": "launch",
+            "mainClass": "DataType.Second",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "DeleteAnyPosition",
+            "request": "launch",
+            "mainClass": "DeleteAnyPosition",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "Ex",
+            "request": "launch",
+            "mainClass": "Ex",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "Ex2",
+            "request": "launch",
+            "mainClass": "Ex2",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "FabonacciSeries",
+            "request": "launch",
+            "mainClass": "FabonacciSeries",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "Facto",
+            "request": "launch",
+            "mainClass": "Facto",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicate",
+            "request": "launch",
+            "mainClass": "FindDuplicate",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicateByList",
+            "request": "launch",
+            "mainClass": "FindDuplicateByList",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "FindMax",
+            "request": "launch",
+            "mainClass": "FindMax",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "FindMin",
+            "request": "launch",
+            "mainClass": "FindMin",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "InilizationOfArrays",
+            "request": "launch",
+            "mainClass": "InilizationOfArrays",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "LeftRotation",
+            "request": "launch",
+            "mainClass": "LeftRotation",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "LeftRotationByDPosition",
+            "request": "launch",
+            "mainClass": "LeftRotationByDPosition",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "NumberPettern",
+            "request": "launch",
+            "mainClass": "NumberPettern",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "Arthmatics",
+            "request": "launch",
+            "mainClass": "Operater.Arthmatics",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "UniaryOperator",
+            "request": "launch",
+            "mainClass": "Operater.UniaryOperator",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "PalidromString",
+            "request": "launch",
+            "mainClass": "PalidromString",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "ParantrhesChecker",
+            "request": "launch",
+            "mainClass": "ParantrhesChecker",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "PermutationOfString",
+            "request": "launch",
+            "mainClass": "PermutationOfString",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "PiramitPettrent",
+            "request": "launch",
+            "mainClass": "PiramitPettrent",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfN",
+            "request": "launch",
+            "mainClass": "PowerOfN",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "PrintFromFiveToOne",
+            "request": "launch",
+            "mainClass": "PrintFromFiveToOne",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "PrintOneToFive",
+            "request": "launch",
+            "mainClass": "PrintOneToFive",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "QueueImple",
+            "request": "launch",
+            "mainClass": "QueueImple",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "RemoveFirst",
+            "request": "launch",
+            "mainClass": "RemoveFirst",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseAbc",
+            "request": "launch",
+            "mainClass": "ReverseAbc",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseSimple",
+            "request": "launch",
+            "mainClass": "ReverseSimple",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "ReverseString",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "RightRotation",
+            "request": "launch",
+            "mainClass": "RightRotation",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "RotateArrays",
+            "request": "launch",
+            "mainClass": "RotateArrays",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "SecondLaegestNumber",
+            "request": "launch",
+            "mainClass": "SecondLaegestNumber",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "Simple",
+            "request": "launch",
+            "mainClass": "Simple",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "SimpleSquare",
+            "request": "launch",
+            "mainClass": "SimpleSquare",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "SingleLinklist",
+            "request": "launch",
+            "mainClass": "SingleLinklist",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "Stack",
+            "request": "launch",
+            "mainClass": "Stack",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "StackCreation",
+            "request": "launch",
+            "mainClass": "StackCreation",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "SubSequenceOfString",
+            "request": "launch",
+            "mainClass": "SubSequenceOfString",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "SumOfN",
+            "request": "launch",
+            "mainClass": "SumOfN",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "SumOfNumber",
+            "request": "launch",
+            "mainClass": "SumOfNumber",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "SumOfOneToN",
+            "request": "launch",
+            "mainClass": "SumOfOneToN",
+            "projectName": "DSA Test_4d3e47f9"
+        }
+    ]
+}

@@ -1,3 +1,5 @@
+
+
 public class SumOfNumber {
     public int sumOfNumber(int n){
       
