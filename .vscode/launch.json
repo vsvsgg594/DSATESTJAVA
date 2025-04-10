@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindPerfectSecondApproach",
+            "request": "launch",
+            "mainClass": "FindPerfectSecondApproach",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "FindPerfectSecondApproch",
+            "request": "launch",
+            "mainClass": "FindPerfectSecondApproch",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "FindPerfectSqaure",
+            "request": "launch",
+            "mainClass": "FindPerfectSqaure",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
+            "name": "MaideinOfTwoSortedArray",
+            "request": "launch",
+            "mainClass": "MaideinOfTwoSortedArray",
+            "projectName": "DSA Test_4d3e47f9"
+        },
+        {
+            "type": "java",
             "name": "LeftRotaion",
             "request": "launch",
             "mainClass": "LeftRotaion",
